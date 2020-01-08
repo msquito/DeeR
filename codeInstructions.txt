@@ -1,0 +1,6 @@
+css539 Security in Emerging Environments . B Lagesse
+Ryan Harasimowicz . Final Project . 2017.12.13
+
+
+All .py files have been written and executed within the Spyder IDE, all files execute directly without any necessary arguments.
+There is a variable switch within OOBCryptoAlgos.py at lines 20/21 invert commenting to switch algorithm. 
